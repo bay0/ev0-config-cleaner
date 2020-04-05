@@ -8,7 +8,7 @@
 
 > Removes luas from config file
 
-### ✨ [Demo](4)
+### ✨ [Demo](https://bay0.github.io/ev0-config-cleaner/)
 
 ## Install
 
